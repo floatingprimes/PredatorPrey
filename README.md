@@ -23,4 +23,4 @@ Primary Goal: Design a Dynamic Predator-Prey model utilizing differential equati
 
 - Utilize the scipy library's integration functionality in determining outcome
 
-- Display results in a clear, comprehensive manner for analysis
+- Plots results in a clear, comprehensive manner for analysis
